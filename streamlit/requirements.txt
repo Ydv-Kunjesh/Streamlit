@@ -1,0 +1,6 @@
+streamlet
+pandas
+numpy
+matplotlib
+seaborn
+yfinance 
