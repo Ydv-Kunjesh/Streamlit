@@ -1,2 +1,2 @@
 # Streamlit
-Here is just a tutorial in streamlet
+Here is just a tutorial in streamlit
